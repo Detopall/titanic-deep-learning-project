@@ -26,4 +26,4 @@ All the cells have already been executed, so the output is already visible. Ther
 
 ## Results
 
-You can find the classification_report in the ``classification-report.png``.
+You can find the classification_report in the ``classification-report.png``. You can also find the results of the Kaggle submission under the name ``submission_score.png``.
